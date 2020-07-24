@@ -122,5 +122,45 @@
   {
     "id": "TIME_SERIES",
     "name": "Time Series"
+  },
+  {
+    "id": "AUDIO",
+    "name": "Audio"
+  },
+  {
+    "id": "CONTENT",
+    "name": "Content"
+  },
+  {
+    "id": "DISPLAY",
+    "name": "Display"
+  },
+  {
+    "id": "DSP",
+    "name": "DSP"
+  },
+  {
+    "id": "LEAD_GENERATION",
+    "name": "Lead Generation"
+  },
+  {
+    "id": "LOCAL",
+    "name": "Local"
+  },
+  {
+    "id": "MARKETING_AUTOMATION",
+    "name": "Marketing Automation"
+  },
+  {
+    "id": "MOBILE",
+    "name": "Mobile"
+  },
+  {
+    "id": "PROGRAMMATIC",
+    "name": "Programmatic"
+  },
+  {
+    "id": "SEARCH",
+    "name": "Search"
   }
 ]
